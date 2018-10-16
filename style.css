@@ -1,0 +1,99 @@
+.container{
+  font-family: helvetica;
+  width: 500px;
+  height: 160px;
+  border-radius: 2px;
+  border: solid 1px;
+  border-color: lightgrey;
+  margin: 10px;
+
+}
+.encabezado{
+
+}
+.encabezado > img{
+width: 50px;
+padding-left: 15px;
+padding-top: 15px;
+display:;
+}
+#info-encabezado{
+  display: inline;
+  padding-left: 5px;
+}
+#nombre{
+  display: inline;
+  font-size: 17px;
+  font-weight: 17px;
+  font-weight: bold;
+  position: absolute;
+}
+#info-encabezado img{
+  position: absolute;
+  left: 188px;
+  width: 17px;
+  top: 218px;
+}
+#alias{
+width: 50px;
+display: inline-block;
+position: absolute;
+top: 225px;
+}
+.follow{
+  display: inline;
+  padding-left: 50px;
+  position: absolute;
+  left: 400px;
+  bottom: 690px;
+}
+.cuerpo{
+  padding-left: 15px;
+  font-size: 16px;
+  height: 20px;
+}
+hr{
+  position: relative;
+  top: 20px;
+  width: 92%;
+  border-top: 1px solid lightgrey;
+}
+#just{
+  font-size:
+}
+#hora{
+  display: inherit;
+  font-size: 12px;
+  color:rgb(177, 170, 168);
+}
+.pie{
+  position: relative;
+  top: 22px;
+  left: 4px;
+padding-left: 12px;
+font-size: 10px;
+display: inline;
+}
+#estadisticas{
+  padding-top: 20px;
+}
+#img{
+  float: right;
+  display: inline-block;
+  position: relative;
+  top: 18px;
+  right: 7px;
+
+}
+#img img{
+  display: inline;
+  width: 20px;
+  padding: 2px;
+}
+p{
+  display: inline;
+}
+span{
+  color: rgb(168, 186, 193);
+  font-weight: bold;
+}
